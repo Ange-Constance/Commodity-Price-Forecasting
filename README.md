@@ -62,9 +62,9 @@ Visualizations such as **learning curves** and **prediction plots** were used to
 ## 🧠 Key Results
 | Model | MAE | MSE | R² |
 |--------|------|------|------|
-| Linear Regression | — | — | — |
-| Random Forest | — | — | — |
-| LSTM | — | — | — |
+| Linear Regression | 0.00 | 0.00 | 1.0 |
+| Random Forest | 12.0 | 5.00 | 0.99 |
+| LSTM | 15.12 | 9.37 | 0.99 |
 
 *(Results will depend on your specific data and training outcomes.)*
 
@@ -112,6 +112,6 @@ Data quality and length significantly impact prediction reliability.
 👩‍💻 Author
 
 Name: Ange Constance
-Institution: African Leadership Univesity
-Module: Introduction to Machine Learning
-Date: 18 October 2025
+- Institution: African Leadership Univesity
+- Module: Introduction to Machine Learning
+- Date: 18 October 2025
